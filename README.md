@@ -1,2 +1,1 @@
-# eloquent-js
-The programming book
+Study Notes on Eloquent JS. 
