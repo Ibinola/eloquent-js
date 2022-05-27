@@ -1,0 +1,23 @@
+{
+  "name": "eloquent",
+  "version": "1.0.0",
+  "description": "Study Notes on Eloquent JS.",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibinola/eloquent-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibinola/eloquent-js/issues"
+  },
+  "homepage": "https://github.com/Ibinola/eloquent-js#readme",
+  "dependencies": {
+    "eslint": "^8.13.0"
+  }
+}
