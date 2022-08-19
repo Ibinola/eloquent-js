@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Ibinola/eloquent-js#readme",
   "dependencies": {
     "eslint": "^8.13.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
